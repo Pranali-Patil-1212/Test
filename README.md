@@ -1,3 +1,3 @@
 # Test
 Learning the git <br>
-Author: Pranali Patil
+Author: Pranali Vikram Patil
